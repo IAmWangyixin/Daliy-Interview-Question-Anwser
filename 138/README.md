@@ -1,5 +1,5 @@
 # 声明
-该题来自[这里](https://github.com/Advanced-Frontend/Daily-Interview-Question/issues/177)，这里是对该题进行练习为目的的探讨和研究。
+该题来自[这里](https://github.com/Advanced-Frontend/Daily-Interview-Question/issues/278)，这里是对该题进行练习为目的的探讨和研究。
 
 <br/>
 
